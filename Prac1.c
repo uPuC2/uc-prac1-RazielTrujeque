@@ -3,7 +3,7 @@ Examples code
 *******************************************************************************/
 /*Holaaaaaaaaaaa*/
 /*uwu*/
-//hola
+//hola que hace
 #include <stdio.h>
 #include <inttypes.h>
 /*
